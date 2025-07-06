@@ -1,0 +1,9 @@
+Flask
+
+gunicorn
+
+requests
+
+beautifulsoup4
+
+newspaper3k
